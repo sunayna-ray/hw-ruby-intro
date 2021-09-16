@@ -1,3 +1,5 @@
+This is a part of Software Engineering course in Texas A&M University.
+
 Ruby Intro
 =============
 
